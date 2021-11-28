@@ -1,1 +1,3 @@
 # Newstrust
+
+Use test.py
