@@ -1,0 +1,122 @@
+{
+  "read": {
+    "BylineScore": 0.001,
+    "ContentLenScore": 0.003,
+    "QuotesNumScore": 0.001,
+    "TitleLenScore": 1,
+    "TitleQuestionMarkExclamationMarkScore": 1.002,
+    "ContentNumericalCitationNumScore": 1.354,
+    "AverageSentenceLenScore": 1.5,
+    "TitleAdverbsCountScore": 2.466,
+    "AverageAdverbSentenceNumScore": 0.5,
+    "AverageQuotesLenScore": 0
+  },
+  "clear": {
+    "BylineScore": 4.498,
+    "ContentLenScore": 3.003,
+    "QuotesNumScore": 4.5,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 3.619,
+    "ContentNumericalCitationNumScore": 1.454,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0,
+    "AverageAdverbSentenceNumScore": 0,
+    "AverageQuotesLenScore": 0.001
+  },
+  "truth": {
+    "BylineScore": 4.493,
+    "ContentLenScore": 3.503,
+    "QuotesNumScore": 3.501,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 0.001,
+    "ContentNumericalCitationNumScore": 0.502,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0.5,
+    "AverageAdverbSentenceNumScore": 1.5,
+    "AverageQuotesLenScore": 1
+  },
+  "useful": {
+    "BylineScore": 3.494,
+    "ContentLenScore": 3.498,
+    "QuotesNumScore": 2.001,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 0,
+    "ContentNumericalCitationNumScore": 1.956,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0,
+    "AverageAdverbSentenceNumScore": 0,
+    "AverageQuotesLenScore": 0
+  },
+  "balance": {
+    "BylineScore": 2.996,
+    "ContentLenScore": 3.002,
+    "QuotesNumScore": 3,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 1.501,
+    "ContentNumericalCitationNumScore": 0,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0.501,
+    "AverageAdverbSentenceNumScore": 1,
+    "AverageQuotesLenScore": 1
+  },
+  "variety": {
+    "BylineScore": 0.998,
+    "ContentLenScore": 4.994,
+    "QuotesNumScore": 2.501,
+    "TitleLenScore": 0.5,
+    "TitleQuestionMarkExclamationMarkScore": 0,
+    "ContentNumericalCitationNumScore": 1.953,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0,
+    "AverageAdverbSentenceNumScore": 0.5,
+    "AverageQuotesLenScore": 0.5
+  },
+  "original": {
+    "BylineScore": 4.494,
+    "ContentLenScore": 4.492,
+    "QuotesNumScore": 3.501,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 3.09,
+    "ContentNumericalCitationNumScore": 1.823,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0,
+    "AverageAdverbSentenceNumScore": 0,
+    "AverageQuotesLenScore": 0
+  },
+  "important": {
+    "BylineScore": 2.495,
+    "ContentLenScore": 3.503,
+    "QuotesNumScore": 3.5,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 0,
+    "ContentNumericalCitationNumScore": 1.002,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0,
+    "AverageAdverbSentenceNumScore": 0,
+    "AverageQuotesLenScore": 0
+  },
+  "deep": {
+    "BylineScore": 4.496,
+    "ContentLenScore": 4.995,
+    "QuotesNumScore": 3.501,
+    "TitleLenScore": 0,
+    "TitleQuestionMarkExclamationMarkScore": 0,
+    "ContentNumericalCitationNumScore": 1.336,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 0,
+    "AverageAdverbSentenceNumScore": 0,
+    "AverageQuotesLenScore": 1
+  },
+  "yellow": {
+    "BylineScore": 4.491,
+    "ContentLenScore": 0,
+    "QuotesNumScore": 0,
+    "TitleLenScore": 3.5,
+    "TitleQuestionMarkExclamationMarkScore": 3.501,
+    "ContentNumericalCitationNumScore": 0,
+    "AverageSentenceLenScore": 0,
+    "TitleAdverbsCountScore": 3.5,
+    "AverageAdverbSentenceNumScore": 3.5,
+    "AverageQuotesLenScore": 3.5
+  }
+}

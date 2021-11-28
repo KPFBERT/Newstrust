@@ -1,0 +1,982 @@
+[
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d673"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.352215791339212,
+      "min": 0,
+      "max": 5,
+      "sd": 0.287114391349543
+    },
+    "avgSentenceLength": {
+      "min": 0,
+      "max": 1220,
+      "sd": 32.1768690253571,
+      "avg": 66.862364510511
+    },
+    "byline": {
+      "name_email": 4032,
+      "name": 578,
+      "etc": 323,
+      "none": 430
+    },
+    "category": "IT 과학",
+    "contentLength": {
+      "max": 10691,
+      "sd": 690.303247178996,
+      "avg": 1009.65168748835,
+      "min": 0
+    },
+    "count": 5363,
+    "imageCount": {
+      "avg": 0.973708745105351,
+      "min": 0,
+      "max": 24,
+      "sd": 1.38431673529483
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numForeignWord": {
+      "min": 0,
+      "max": 0,
+      "sd": 0,
+      "avg": 0
+    },
+    "numNumber": {
+      "avg": 14.5981726645534,
+      "min": 0,
+      "max": 1072,
+      "sd": 20.8543561324325
+    },
+    "quotePercent": {
+      "max": 1.19740718915734,
+      "sd": 0.110546645610724,
+      "avg": 0.123463956626157,
+      "min": 0
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "avg": 2.70352414693269,
+      "min": 0,
+      "max": 50,
+      "sd": 2.84363470304731
+    },
+    "titleAdverbs": {
+      "avg": 0.104792093977252,
+      "min": 0,
+      "max": 3,
+      "sd": 0.338665830417384
+    },
+    "titleLength": {
+      "max": 117,
+      "sd": 8.32107116805951,
+      "avg": 28.9888122319597,
+      "min": 3
+    },
+    "titleNumPuncs": {
+      "min": 0,
+      "max": 2,
+      "sd": 0.21305429232574,
+      "avg": 0.0443781465597613
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d674"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.333506042950452,
+      "min": 0,
+      "max": 15,
+      "sd": 0.320400760678567
+    },
+    "avgSentenceLength": {
+      "avg": 62.1642248246961,
+      "min": 0,
+      "max": 852,
+      "sd": 25.5736612742635
+    },
+    "byline": {
+      "name_email": 4307,
+      "name": 1334,
+      "etc": 1137,
+      "none": 1869
+    },
+    "category": "스포츠",
+    "contentLength": {
+      "sd": 602.91439193685,
+      "avg": 800.443598615917,
+      "min": 0,
+      "max": 12788
+    },
+    "count": 8670,
+    "imageCount": {
+      "avg": 1.10588235294118,
+      "min": 0,
+      "max": 188,
+      "sd": 3.71273564877615
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "sd": 0,
+      "avg": 0,
+      "min": 0,
+      "max": 0
+    },
+    "numForeignWord": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numNumber": {
+      "avg": 24.2818915801615,
+      "min": 0,
+      "max": 275,
+      "sd": 20.7783909161229
+    },
+    "quotePercent": {
+      "avg": 0.0899148600751315,
+      "min": 0,
+      "max": 1.1491395793499,
+      "sd": 0.12523481213173
+    },
+    "quoteRatioRealAnon": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "quotes": {
+      "sd": 2.73387160947807,
+      "avg": 1.81337946943483,
+      "min": 0,
+      "max": 47
+    },
+    "titleAdverbs": {
+      "avg": 0.196424452133795,
+      "min": 0,
+      "max": 4,
+      "sd": 0.455453835036673
+    },
+    "titleLength": {
+      "avg": 27.6839677047289,
+      "min": 2,
+      "max": 67,
+      "sd": 8.77008698815525
+    },
+    "titleNumPuncs": {
+      "avg": 0.0674740484429066,
+      "min": 0,
+      "max": 4,
+      "sd": 0.272018318481481
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d678"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.423080225657227,
+      "min": 0,
+      "max": 2.53846153846154,
+      "sd": 0.271878865347273
+    },
+    "avgSentenceLength": {
+      "avg": 65.9050795932399,
+      "min": 0,
+      "max": 550,
+      "sd": 16.1204421259967
+    },
+    "byline": {
+      "name_email": 4889,
+      "name": 877,
+      "etc": 1747,
+      "none": 1981
+    },
+    "category": "국제",
+    "contentLength": {
+      "min": 0,
+      "max": 8735,
+      "sd": 615.737500868174,
+      "avg": 1006.71883875039
+    },
+    "count": 9507,
+    "imageCount": {
+      "avg": 0.885663195540128,
+      "min": 0,
+      "max": 63,
+      "sd": 1.77582126605867
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "avg": 0.00021037130535395,
+      "min": 0,
+      "max": 2,
+      "sd": 0.0205109325634351
+    },
+    "numForeignWord": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numNumber": {
+      "max": 209,
+      "sd": 13.7114182064833,
+      "avg": 13.8846113390134,
+      "min": 0
+    },
+    "quotePercent": {
+      "avg": 0.131012090205936,
+      "min": 0,
+      "max": 0.938461538461538,
+      "sd": 0.127789349164572
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "min": 0,
+      "max": 40,
+      "sd": 3.85388110753169,
+      "avg": 3.71242242558115
+    },
+    "titleAdverbs": {
+      "avg": 0.174818554749132,
+      "min": 0,
+      "max": 3,
+      "sd": 0.427498510575569
+    },
+    "titleLength": {
+      "avg": 29.7634374671295,
+      "min": 5,
+      "max": 92,
+      "sd": 8.273456734828
+    },
+    "titleNumPuncs": {
+      "avg": 0.0733143999158515,
+      "min": 0,
+      "max": 5,
+      "sd": 0.284574102147006
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d679"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.442636871684224,
+      "min": 0,
+      "max": 3.3,
+      "sd": 0.342326257517066
+    },
+    "avgSentenceLength": {
+      "avg": 71.8014913062143,
+      "min": 0,
+      "max": 527,
+      "sd": 25.0152816287608
+    },
+    "byline": {
+      "etc": 24,
+      "none": 604,
+      "name_email": 823,
+      "name": 443
+    },
+    "category": "교육",
+    "contentLength": {
+      "avg": 923.498680738786,
+      "min": 0,
+      "max": 8525,
+      "sd": 798.835144605465
+    },
+    "count": 1895,
+    "imageCount": {
+      "avg": 0.587335092348285,
+      "min": 0,
+      "max": 10,
+      "sd": 0.743412953284738
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "numForeignWord": {
+      "min": 0,
+      "max": 0,
+      "sd": 0,
+      "avg": 0
+    },
+    "numNumber": {
+      "max": 281,
+      "sd": 17.9818766113817,
+      "avg": 14.4569920844327,
+      "min": 0
+    },
+    "quotePercent": {
+      "avg": 0.144583145750197,
+      "min": 0,
+      "max": 0.91578947368421,
+      "sd": 0.144144787685153
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "avg": 2.97361477572559,
+      "min": 0,
+      "max": 33,
+      "sd": 3.53248630468162
+    },
+    "titleAdverbs": {
+      "sd": 0.340422159498292,
+      "avg": 0.108707124010554,
+      "min": 0,
+      "max": 2
+    },
+    "titleLength": {
+      "min": 3,
+      "max": 74,
+      "sd": 8.43096986387901,
+      "avg": 26.8036939313984
+    },
+    "titleNumPuncs": {
+      "avg": 0.0554089709762533,
+      "min": 0,
+      "max": 2,
+      "sd": 0.257019714291136
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d67b"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.390573122139793,
+      "min": 0,
+      "max": 14,
+      "sd": 0.443864166765301
+    },
+    "avgSentenceLength": {
+      "avg": 63.0451821945488,
+      "min": 0,
+      "max": 1745,
+      "sd": 33.1680351266537
+    },
+    "byline": {
+      "name": 873,
+      "etc": 3655,
+      "none": 2339,
+      "name_email": 10183
+    },
+    "category": "라이프스타일",
+    "contentLength": {
+      "avg": 614.564559634103,
+      "min": 0,
+      "max": 8576,
+      "sd": 706.837728337109
+    },
+    "count": 17054,
+    "imageCount": {
+      "avg": 1.01688753371643,
+      "min": 0,
+      "max": 36,
+      "sd": 1.28730566717807
+    },
+    "informantReal": {
+      "min": 0,
+      "max": 0,
+      "sd": 0,
+      "avg": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numForeignWord": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "numNumber": {
+      "sd": 12.0100664389144,
+      "avg": 7.80931159845198,
+      "min": 0,
+      "max": 208
+    },
+    "quotePercent": {
+      "avg": 0.0971787725333714,
+      "min": 0,
+      "max": 1.04508196721311,
+      "sd": 0.127655213367106
+    },
+    "quoteRatioRealAnon": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "quotes": {
+      "avg": 1.75606895742934,
+      "min": 0,
+      "max": 60,
+      "sd": 2.68878771695063
+    },
+    "titleAdverbs": {
+      "min": 0,
+      "max": 5,
+      "sd": 0.502991543216747,
+      "avg": 0.240002345490794
+    },
+    "titleLength": {
+      "avg": 29.5113756303506,
+      "min": 0,
+      "max": 91,
+      "sd": 9.61886344116759
+    },
+    "titleNumPuncs": {
+      "avg": 0.121672334936085,
+      "min": 0,
+      "max": 4,
+      "sd": 0.345397277139259
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d67c"
+    },
+    "avgAdverbsPerSentence": {
+      "min": 0,
+      "max": 15.5,
+      "sd": 0.416758595876264,
+      "avg": 0.512151428262075
+    },
+    "avgSentenceLength": {
+      "max": 2219,
+      "sd": 41.3168743905196,
+      "avg": 64.147329895533,
+      "min": 0
+    },
+    "byline": {
+      "name": 2031,
+      "etc": 1172,
+      "none": 4048,
+      "name_email": 5163
+    },
+    "category": "문화 예술",
+    "contentLength": {
+      "avg": 1088.46022544283,
+      "min": 0,
+      "max": 12066,
+      "sd": 891.872404065156
+    },
+    "count": 12420,
+    "imageCount": {
+      "avg": 1.32745571658615,
+      "min": 0,
+      "max": 198,
+      "sd": 3.4694576928998
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "sd": 0,
+      "avg": 0,
+      "min": 0,
+      "max": 0
+    },
+    "numForeignWord": {
+      "sd": 0,
+      "avg": 0,
+      "min": 0,
+      "max": 0
+    },
+    "numNumber": {
+      "avg": 13.0128824476651,
+      "min": 0,
+      "max": 754,
+      "sd": 18.9400527701977
+    },
+    "quotePercent": {
+      "avg": 0.131773112622768,
+      "min": 0,
+      "max": 0.971900826446281,
+      "sd": 0.144310031764632
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "avg": 3.52181964573269,
+      "min": 0,
+      "max": 58,
+      "sd": 4.08271055958735
+    },
+    "titleAdverbs": {
+      "sd": 0.45213235600723,
+      "avg": 0.189935587761675,
+      "min": 0,
+      "max": 4
+    },
+    "titleLength": {
+      "avg": 27.7942834138486,
+      "min": 0,
+      "max": 106,
+      "sd": 9.74002398147008
+    },
+    "titleNumPuncs": {
+      "avg": 0.0949275362318841,
+      "min": 0,
+      "max": 3,
+      "sd": 0.314066419991173
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d67d"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.592465753983053,
+      "min": 0,
+      "max": 10.5,
+      "sd": 0.471739972266998
+    },
+    "avgSentenceLength": {
+      "avg": 63.3107973641458,
+      "min": 0,
+      "max": 808,
+      "sd": 19.8259837049747
+    },
+    "byline": {
+      "name": 1996,
+      "etc": 3505,
+      "none": 1684,
+      "name_email": 13164
+    },
+    "category": "연예",
+    "contentLength": {
+      "avg": 556.056687116564,
+      "min": 0,
+      "max": 8882,
+      "sd": 416.618003877254
+    },
+    "count": 20375,
+    "imageCount": {
+      "avg": 1.10130061349693,
+      "min": 0,
+      "max": 102,
+      "sd": 2.07681818379155
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "numForeignWord": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numNumber": {
+      "avg": 6.02689570552147,
+      "min": 0,
+      "max": 365,
+      "sd": 10.2933351744545
+    },
+    "quotePercent": {
+      "avg": 0.1553501482283,
+      "min": 0,
+      "max": 1.30769230769231,
+      "sd": 0.161521064970911
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "avg": 2.51896932515337,
+      "min": 0,
+      "max": 35,
+      "sd": 2.78509986697026
+    },
+    "titleAdverbs": {
+      "min": 0,
+      "max": 5,
+      "sd": 0.612381501816921,
+      "avg": 0.363631901840491
+    },
+    "titleLength": {
+      "avg": 33.6108957055215,
+      "min": 7,
+      "max": 75,
+      "sd": 7.83815172013758
+    },
+    "titleNumPuncs": {
+      "avg": 0.17761963190184,
+      "min": 0,
+      "max": 7,
+      "sd": 0.412575008366598
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d67e"
+    },
+    "avgAdverbsPerSentence": {
+      "min": 0,
+      "max": 37,
+      "sd": 0.345221518269569,
+      "avg": 0.375866867921886
+    },
+    "avgSentenceLength": {
+      "max": 2418,
+      "sd": 37.8702742417024,
+      "avg": 69.7179425784094,
+      "min": 0
+    },
+    "byline": {
+      "none": 8940,
+      "name_email": 25096,
+      "name": 7051,
+      "etc": 5262
+    },
+    "category": "경제",
+    "contentLength": {
+      "avg": 937.468114473032,
+      "min": 0,
+      "max": 15672,
+      "sd": 687.536464004422
+    },
+    "count": 46369,
+    "imageCount": {
+      "sd": 1.44460799560239,
+      "avg": 0.681597619098967,
+      "min": 0,
+      "max": 99
+    },
+    "informantReal": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numForeignWord": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numNumber": {
+      "avg": 24.0163255623369,
+      "min": 0,
+      "max": 783,
+      "sd": 34.9973428411719
+    },
+    "quotePercent": {
+      "avg": 0.124578186564336,
+      "min": 0,
+      "max": 1.12161269001983,
+      "sd": 0.138616046030531
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "avg": 2.58610278418771,
+      "min": 0,
+      "max": 60,
+      "sd": 3.11549720890261
+    },
+    "titleAdverbs": {
+      "avg": 0.127153917487977,
+      "min": 0,
+      "max": 5,
+      "sd": 0.370942591672247
+    },
+    "titleLength": {
+      "avg": 29.0475533222627,
+      "min": 0,
+      "max": 181,
+      "sd": 8.92978370431514
+    },
+    "titleNumPuncs": {
+      "min": 0,
+      "max": 5,
+      "sd": 0.232574660830226,
+      "avg": 0.04474972503181
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d67f"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.552797261308486,
+      "min": 0,
+      "max": 7,
+      "sd": 0.426009888122781
+    },
+    "avgSentenceLength": {
+      "max": 2858,
+      "sd": 30.2336376793904,
+      "avg": 75.446310223281,
+      "min": 0
+    },
+    "byline": {
+      "name_email": 8518,
+      "name": 3562,
+      "etc": 2133,
+      "none": 4207
+    },
+    "category": "정치",
+    "contentLength": {
+      "min": 0,
+      "max": 14062,
+      "sd": 649.780004293858,
+      "avg": 888.269631236442
+    },
+    "count": 18440,
+    "imageCount": {
+      "avg": 0.764316702819957,
+      "min": 0,
+      "max": 82,
+      "sd": 2.29679254319306
+    },
+    "informantReal": {
+      "max": 0,
+      "sd": 0,
+      "avg": 0,
+      "min": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "sd": 0,
+      "avg": 0,
+      "min": 0,
+      "max": 0
+    },
+    "numForeignWord": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numNumber": {
+      "avg": 10.8916485900217,
+      "min": 0,
+      "max": 212,
+      "sd": 12.4106732673169
+    },
+    "quotePercent": {
+      "min": 0,
+      "max": 1.36434108527132,
+      "sd": 0.205806068930476,
+      "avg": 0.235732601423876
+    },
+    "quoteRatioRealAnon": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "quotes": {
+      "sd": 4.4028781484758,
+      "avg": 4.60932754880694,
+      "min": 0,
+      "max": 53
+    },
+    "titleAdverbs": {
+      "max": 5,
+      "sd": 0.451089146088354,
+      "avg": 0.199620390455531,
+      "min": 0
+    },
+    "titleLength": {
+      "avg": 28.2030911062907,
+      "min": 2,
+      "max": 159,
+      "sd": 8.77756094415524
+    },
+    "titleNumPuncs": {
+      "avg": 0.0404013015184382,
+      "min": 0,
+      "max": 3,
+      "sd": 0.210991491430357
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5f45c7e66c79d13ff9e3d680"
+    },
+    "avgAdverbsPerSentence": {
+      "avg": 0.375157851207254,
+      "min": 0,
+      "max": 10,
+      "sd": 0.342180488603416
+    },
+    "avgSentenceLength": {
+      "avg": 74.2128990310533,
+      "min": 0,
+      "max": 7263,
+      "sd": 79.6109576483304
+    },
+    "byline": {
+      "name_email": 29513,
+      "name": 19672,
+      "etc": 7375,
+      "none": 20319
+    },
+    "category": "사회",
+    "contentLength": {
+      "avg": 696.066144926029,
+      "min": 0,
+      "max": 15364,
+      "sd": 588.956437532104
+    },
+    "count": 76922,
+    "imageCount": {
+      "avg": 0.743311406359689,
+      "min": 0,
+      "max": 92,
+      "sd": 2.26178215298479
+    },
+    "informantReal": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "mediaType": "신문",
+    "numAnonPredicate": {
+      "avg": 0,
+      "min": 0,
+      "max": 0,
+      "sd": 0
+    },
+    "numForeignWord": {
+      "sd": 0,
+      "avg": 0,
+      "min": 0,
+      "max": 0
+    },
+    "numNumber": {
+      "avg": 12.0238163334287,
+      "min": 0,
+      "max": 1161,
+      "sd": 15.5206765725538
+    },
+    "quotePercent": {
+      "max": 1.23316062176166,
+      "sd": 0.141923464714345,
+      "avg": 0.130761287694802,
+      "min": 0
+    },
+    "quoteRatioRealAnon": {
+      "sd": 0,
+      "avg": 0,
+      "min": 0,
+      "max": 0
+    },
+    "quotes": {
+      "avg": 2.34317880450326,
+      "min": 0,
+      "max": 95,
+      "sd": 3.07847992286523
+    },
+    "titleAdverbs": {
+      "avg": 0.107966511531161,
+      "min": 0,
+      "max": 4,
+      "sd": 0.345239140659685
+    },
+    "titleLength": {
+      "avg": 25.8340786771015,
+      "min": 0,
+      "max": 177,
+      "sd": 9.19790649663287
+    },
+    "titleNumPuncs": {
+      "avg": 0.0330464626504771,
+      "min": 0,
+      "max": 3,
+      "sd": 0.189901162370252
+    }
+  }
+]
